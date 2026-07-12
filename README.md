@@ -36,7 +36,4 @@
 
 ---
 
-### 📊 GitHub 통계
-![sihoo-world's stats](https://github-readme-stats.vercel.app/api?username=sihoo-world&show_icons=true&theme=radical)
-
 [0009-0005-2866-6511]: https://orcid.org/0009-0005-2866-6511
