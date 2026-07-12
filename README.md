@@ -13,6 +13,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-006699?style=flat&logo=easyeda&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB_Design-8C8C8C?style=flat&logo=adafruit&logoColor=white)
 
 ---
 
