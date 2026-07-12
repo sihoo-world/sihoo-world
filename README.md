@@ -9,6 +9,11 @@
 * **Hardware/EDA:** EasyEDA Pro, 고속 디지털 회로 설계 및 다층 PCB 라우팅 (최대 6-Layer)
 * **Embedded/AI:** TinyML, 에지 AI 모델 최적화, 정밀 센서 데이터 수집 및 튜닝
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-006699?style=flat&logo=easyeda&logoColor=white)
+
 ---
 
 ## 📌 주요 연구 및 프로젝트 (Projects)
@@ -28,5 +33,10 @@
 ## 🔗 식별자 및 자격 스펙 (Identifiers & Certifications)
 * **ORCID ID:** [0009-0005-2866-6511]
 * **보유 자격:** 무인동력비행장치 4종(무인멀티콥터) / 무인동력비행장치 4종(무인비행기) / 무인동력비행장치 4종(무인헬리콥터) / 무인동력비행장치 4종(무인수직이착륙기)
+
+---
+
+### 📊 GitHub 통계
+![sihoo-world's stats](https://github-readme-stats.vercel.app/api?username=sihoo-world&show_icons=true&theme=radical)
 
 [0009-0005-2866-6511]: https://orcid.org/0009-0005-2866-6511
